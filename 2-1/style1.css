@@ -10,6 +10,10 @@
   height:100px;
 }
 
+.main{
+  display: flex;
+}
+
 .left{
  background-color: #80bfa8;
  width:150px;
